@@ -1,5 +1,7 @@
 # Scaling_containers
-Machine Learning - AI Workshop.
+Machine Learning - AI Workshop. 
+
+Using hand detection to scale container running on docker engine
 
 💫 Managing workload of Docker container with hand gesture.
 💫 Implementing security with face recognition i.e account unlocked after face detection. 
