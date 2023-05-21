@@ -1,6 +1,8 @@
 # Scaling_containers
 Machine Learning - AI Workshop. 
 
+Managing workload of Docker container with hand gesture
+
 Using hand detection to scale container running on docker engine
 
 💫 Managing workload of Docker container with hand gesture.
